@@ -1,7 +1,7 @@
 # virtual environment
 venv/
 
-# data files (optional if large)
+# data files
 data/raw/
 
 # python cache
